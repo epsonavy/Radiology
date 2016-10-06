@@ -36,6 +36,6 @@ Information about our datasets:
 -chinese_opera_meditation_punk_pop_rap_kpop.txt contains 1,273 songs with the genres: chinese opera, meditation, punk, pop, rap, and k-pop
 
 Team Members:
-Pei Liu - esponavy@yahoo.com
+Pei Liu - epsonavy@yahoo.com
 Peter Chen - peter.chen20@gmail.com
 Long Trinh - kevintrinh255@gmail.com
